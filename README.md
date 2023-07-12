@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://blog.hualess.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);驾狗师祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);驾狗师祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -46,7 +46,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是驾狗师。</p>
+<p>&emsp;&emsp;大家好，我是驾狗师/hualess。</p>
 <p>&emsp;&emsp;热爱编程、运动、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -59,10 +59,10 @@
 
 ### 🏢 Work Experience
 
-- [工作经验]() &emsp; 📌 2016-07—— Now
-
-  - 10+研发经验、5+架构设计经验。
-  - 开发、大数据、云原生、架构都玩过。
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+- 📌 2016-07—— Now
+- 10+研发经验、5+架构设计经验。
+- 开发、大数据、云原生、架构、首架都玩过。
 
 </td>
 </tr>
@@ -84,21 +84,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/coder/yihong.html' target='_blank'>伊洪</a> - 2023-07-04
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/componebts/' target='_blank'>test</a> - 2023-06-25
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/essential/test.html' target='_blank'>Hello Vue</a> - 2023-06-25
-* <a href='https://brain.sunguoqi.com/web/base/html/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-06-20
-<!-- END_SECTION:brain -->
-
-</td></tr>
 
 <tr><td>
 
@@ -123,67 +108,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hualess&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hualess&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hualess&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
 
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                291 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌆 Daytime                431 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌃 Evening                510 commits         █████████░░░░░░░░░░░░░░░░   35.56 % 
-🌙 Night                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-```
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Friday                   380 commits         ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-Saturday                 152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Sunday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     13 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.89 % 
-Markdown                 6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-HTML                     4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Vue.js                   3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-JavaScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-
-🔥 Editors: 
-VS Code                  31 hrs 21 mins      ███████████████████████░░   90.85 % 
-IntelliJ                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Obsidian                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-
-💻 Operating System: 
-Mac                      22 hrs 1 min        ████████████████░░░░░░░░░   63.79 % 
-Windows                  12 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   36.21 % 
-```
-
-
-Last Updated on 10/07/2023 01:52:23 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
 </table>
