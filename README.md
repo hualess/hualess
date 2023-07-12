@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://blog.hualess.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=System.out.println(%22Hello%2C%20World%22);驾狗师祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=System.out.println(%22Hello%2C%20World%22);驾狗师祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -145,5 +145,31 @@
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/icon.png" /></div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/hr.gif" />
+
+<div align="center" >
+
+<!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
+
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=hualess&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+<!-- GitHub 数据统计 -->
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hualess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hualess&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+
+<!-- Awesome repo 比较好的仓库-->
+<a href="https://github.com/hualess/Awesome-Love-Code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hualess&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/hualess/Student-Data-Vision">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hualess&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
+</div>
 
 </div>
