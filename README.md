@@ -61,7 +61,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
-<p>&emsp;* 📌 2016-07—— Now</p>
+- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+<p>&emsp; 📌 2016-07—— Now</p>
 <p>&emsp;* 10+研发经验、5+架构设计经验。</p>
 <p>&emsp;* 开发、大数据、云原生、架构、首架都玩过。</p>
 
