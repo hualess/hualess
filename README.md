@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://blog.hualess.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=System.out.println(%22Hello%2C%20World%22);驾狗师祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=580&lines=System.out.println(%22Hello%2C%20World%22);驾狗师祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -165,10 +165,10 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hualess&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/hualess/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hualess&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/hualess/Student-Data-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hualess&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 </div>
 
