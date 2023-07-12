@@ -60,10 +60,11 @@
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-- 📌 2016-07—— Now
-- 10+研发经验、5+架构设计经验。
-- 开发、大数据、云原生、架构、首架都玩过。
-
+<!-- START_SECTION:blog -->
+* 📌 2016-07—— Now
+* 10+研发经验、5+架构设计经验。
+* 开发、大数据、云原生、架构、首架都玩过。
+<!-- END_SECTION:blog -->
 </td>
 </tr>
 
