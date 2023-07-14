@@ -39,7 +39,7 @@
 ## Hello, I'm 驾狗师/hualess. 🤪
 
 <!-- About me 关于我 -->
-### :eyes: About Me
+### :eyes: About
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/steven.png" />
 
@@ -53,7 +53,7 @@
 >
 > **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
 
-### 🏢 Work Experience
+### 🏢 Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/technologist.png" />
 
@@ -67,6 +67,8 @@
 
 
 ### :speech_balloon: Other
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/astronaut.png" />
 
 **欢迎通过以下方式了解我**
 
@@ -85,7 +87,7 @@
 > **公众号:** [『 驾狗师 』](https://hualess.com/oss/pic/wechat.jpg)
 
 
-### 🤾‍♂️ Funny Soul
+### 🤾‍♂️ read
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/artist.png" />
 
