@@ -38,8 +38,6 @@
 
 # 🙋 Hello
 
-<table>
-<tr width="100%"><td>
 
 <!-- About me 关于我 -->
 ### :eyes: About Me
@@ -54,8 +52,7 @@
 >
 > 更多的时间是比较宅!
 
-</td></tr>
-
+<table>
 <tr>
 <td>
 
