@@ -38,7 +38,7 @@
 
 # 🙋 Hello
 
-<table>
+<table width="100%">
 <tr><td>
 
 <!-- About me 关于我 -->
