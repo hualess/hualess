@@ -36,38 +36,34 @@
 
 </div>
 
-# 🙋 Hello
-
+## Hello, I'm 驾狗师/hualess. 🤪
 
 <!-- About me 关于我 -->
 ### :eyes: About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/steven.png" />
 
-> 大家好，我是驾狗师/hualess。
+> 热爱编程、互联网, 闲暇时间会看看视频, 教程, 看书. 写写学习笔记.
 >
-> 热爱编程、运动、读书、旅行。
->
+> 喜欢跑步 ~这家伙很懒, 已经很久没跑步了~
+> 
 > 热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。
 >
 > 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
 >
 > **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
-<table>
-<tr>
-<td>
 
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/technologist.png" />
 
-- 📌 2016-07—— Now 
-- 10+研发经验、5+架构设计经验。 
-- 开发、大数据、云原生、架构、首架都玩过。
+>- 📌 2016-07—— Now 
+>- 
+>- 10+研发经验、5+架构设计经验。
+>- 
+>- 开发、大数据、云原生、架构、首架都玩过。
 
-</td>
-</tr>
-
+<table>
 <tr><td>
 
 <!-- 近期博客 -->
