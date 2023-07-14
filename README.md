@@ -42,15 +42,17 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-### 🤺 About Me
+### :eyes: About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是驾狗师/hualess。</p>
-<p>&emsp;&emsp;热爱编程、运动、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+> Java开发, 热爱互联网, 闲暇时间会看看视频, 教程, 看书. 写写学习笔记.
+>
+> 喜欢跑步 ~这家伙很懒, 已经很久没跑步了~
+>
+> 偶尔打打王者 ~(混分大王)~
+>
+> 更多的时间是比较宅!
 
 </td></tr>
 
