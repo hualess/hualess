@@ -38,8 +38,8 @@
 
 # 🙋 Hello
 
-<table width="100%">
-<tr><td>
+<table>
+<tr width="100%"><td>
 
 <!-- About me 关于我 -->
 ### :eyes: About Me
