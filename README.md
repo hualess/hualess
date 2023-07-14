@@ -66,22 +66,23 @@
 >:zap: `JAVA` `全栈`  `架构`  `大数据`  `云原生`  `程序猿`  `coder`
 
 
-<!-- 近期博客 -->
-### 📃 Recent Blog
+### :speech_balloon: Other
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/astronaut.png" />
+**欢迎通过以下方式了解我**
 
-<!-- START_SECTION:blog -->
-> <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-> 
-> <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-> 
-> <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-> 
-> <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-> 
-> <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-<!-- END_SECTION:blog -->
+> **Blog:** https://hualess.top
+>
+> **GitHub:** https://github.com/hualess
+>
+> **Gitee:** https://gitee.com/hualess
+>
+> **LeetCode:** https://leetcode-cn.com/u/hualess/
+>
+> **CSDN:** https://blog.csdn.net/hualess
+>
+> **知乎:** https://www.zhihu.com/people/hualess
+>
+> **公众号:** [『 驾狗师 』](https://hualess.com/oss/pic/wechat.jpg)
 
 
 ### 🤾‍♂️ Funny Soul
@@ -89,11 +90,15 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+> <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+> 
+> <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+> 
+> <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+> 
+> <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+> 
+> <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 
