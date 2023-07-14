@@ -78,16 +78,12 @@
 >
 > **Gitee:** https://gitee.com/hualess
 >
-> **LeetCode:** https://leetcode-cn.com/u/hualess/
->
-> **CSDN:** https://blog.csdn.net/hualess
->
 > **知乎:** https://www.zhihu.com/people/hualess
 >
 > **公众号:** [『 驾狗师 』](https://hualess.com/oss/pic/wechat.jpg)
 
 
-### 🤾‍♂️ read
+### 🤾‍♂️ Read
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/artist.png" />
 
