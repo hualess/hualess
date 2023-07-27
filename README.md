@@ -144,9 +144,6 @@
 
 <div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
-
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
@@ -156,12 +153,6 @@
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hualess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hualess&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
-
-<!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 </div>
 
