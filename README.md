@@ -73,15 +73,15 @@
 
 **欢迎通过以下方式了解我**
 
-> **Blog:** https://hualess.top
+> **Blog:** https://hualess.cn
 >
 > **GitHub:** https://github.com/hualess
 >
 > **Gitee:** https://gitee.com/hualess
 >
-> **知乎:** https://www.zhihu.com/people/hualess
+> **小程序:** [『 驾狗师 』](https://static.hualess.cn/wx/jgs_xcx.jpg)
 >
-> **公众号:** [『 驾狗师 』](https://hualess.com/oss/pic/wechat.jpg)
+> **公众号:** [『 驾狗师 』](https://static.hualess.cn/wx/jgs_gzh.jpg)
 
 
 ### 🤾‍♂️ Read
