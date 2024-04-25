@@ -74,6 +74,9 @@
 **欢迎通过以下方式了解我**
 
 > **Blog:** https://hualess.cn
+> **个人IP:** https://www.hualess.cn
+>
+> **Blog:** https://blog.hualess.cn
 >
 > **GitHub:** https://github.com/hualess
 >
