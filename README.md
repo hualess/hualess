@@ -10,18 +10,19 @@
   </div>
 
 <!-- knock code pictures 敲代码的图片 -->
+ <!-- <img src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/coding.gif" /><br> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/coding.gif" />
+  </picture>
 
-<img src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/coding.gif" /><br>
 
 <!-- profile logo 个人资料徽标 -->
 
 <div align="center">
     <a href="https://www.hualess.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a> 
-    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a> 
-    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a> 
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a> 
-    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a> 
-    <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a> 
     <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a> 
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=hualess&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -73,7 +74,7 @@
 
 **欢迎通过以下方式了解我**
 
-> **个人IP:** https://www.hualess.cn
+> **主站:** https://www.hualess.cn
 >
 > **Blog:** https://blog.hualess.cn
 >
@@ -85,22 +86,6 @@
 >
 > **公众号:** [『 驾狗师 』](https://static.hualess.cn/wx/jgs_gzh.jpg)
 
-
-### 🤾‍♂️ Read
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/hualess/hualess/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-> <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-> 
-> <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-> 
-> <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-> 
-> <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-> 
-> <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
 
 
 <!-- ########################################## 分割 ########################################## -->
